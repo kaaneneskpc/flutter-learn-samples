@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Week 1 : <a href="https://github.com/kaaneneskpc/flutter-learn-samples/tree/main/lib/week1/">WEEK-1</a>
+<a href="https://github.com/kaaneneskpc/flutter-learn-samples/tree/main/lib/week1/">WEEK-1</a>
 
 ## Getting Started
 
@@ -16,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## ScreenShots(Week1)
+
+![1](https://user-images.githubusercontent.com/32849662/112878638-d967fc00-90d0-11eb-97cd-247e8b30de2a.PNG)
