@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Week 1 : <a href="https://github.com/kaaneneskpc/flutter-learn-samples/tree/main/lib/week1/">WEEK-1</a>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
